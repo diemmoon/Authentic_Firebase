@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523474549512",
+    "project_id": "authen-9d046",
+    "storage_bucket": "authen-9d046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523474549512:android:0f4a68a286b7e4d4ea4abd",
+        "android_client_info": {
+          "package_name": "com.example.authen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523474549512-n1vr1ckumjfvmqlonqs5dih51a8avl0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJaz2_CHhyLtQOQJgZckFN_W71_IyecHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523474549512-n1vr1ckumjfvmqlonqs5dih51a8avl0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
